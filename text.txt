@@ -1,0 +1,3 @@
+나는 바보입니다~
+
+https://www.toptal.com/developers/gitignore 이그노어 무조건 포함
